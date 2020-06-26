@@ -1,0 +1,17 @@
+@font-face {
+    font-family: "Poxima";
+    src: url("./proxima/Proxima Nova Alt Bold.otf") format("otf");
+    font-weight: 600;
+    font-style: normal;
+}
+
+.hello {
+    color: red;
+    font-family: "Proxima", sans-serif;
+    text-transform: uppercase;
+    font-size: 10vh;
+}
+.hello img {
+    width: 30%;
+    height: auto;
+}
